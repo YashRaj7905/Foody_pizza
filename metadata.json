@@ -1,0 +1,7 @@
+{
+  "name": "Foody Pizza",
+  "description": "Modern, responsive website for Foody Pizza restaurant in Lucknow, featuring a delicious menu, reviews, and contact information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
